@@ -52,3 +52,31 @@ Untuk membuat package pada Python cukup mudah.
 nama __init__.py
 • Buat sejumah file kode program python (ekstensi .py) pada folder
 tersebut yang berisi fungsi-fungsi (modul program)
+
+# Package & Module
+
+![input end](https://github.com/fdlhrauf/Tugas7Praktikum6/blob/master/Gambar/WhatsApp%20Image%202019-12-24%20at%2018.58.05.jpeg)
+
+# daftar_nilai
+
+** ![input end](https://github.com/fdlhrauf/Tugas7Praktikum6/blob/master/Gambar/WhatsApp%20Image%202019-12-24%20at%2018.58.05(1).jpeg)
+
+** ![input end](https://github.com/fdlhrauf/Tugas7Praktikum6/blob/master/Gambar/WhatsApp%20Image%202019-12-24%20at%2018.58.04(1).jpeg)
+
+# input_nilai
+
+** ![input end](https://github.com/fdlhrauf/Tugas7Praktikum6/blob/master/Gambar/WhatsApp%20Image%202019-12-24%20at%2018.58.04(4).jpeg)
+
+# view_nilai
+
+** ![input end](https://github.com/fdlhrauf/Tugas7Praktikum6/blob/master/Gambar/WhatsApp%20Image%202019-12-24%20at%2018.58.04.jpeg)
+
+# main
+
+*
+
+# output
+
+** ![input end](https://github.com/fdlhrauf/Tugas7Praktikum6/blob/master/Gambar/WhatsApp%20Image%202019-12-24%20at%2018.58.04(2).jpeg)
+
+** ![input end](https://github.com/fdlhrauf/Tugas7Praktikum6/blob/master/Gambar/WhatsApp%20Image%202019-12-24%20at%2018.58.04(3).jpeg)
